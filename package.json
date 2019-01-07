@@ -1,0 +1,11 @@
+{
+  "name": "do-node-sample",
+  "version": "1.0.0",
+  "description": "node js sample",
+  "main": "app.js",
+  "author": "Pradeep Murugesan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
